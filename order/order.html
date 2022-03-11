@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Registration Page</title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+    <link rel="stylesheet" href="order.css">
+  </head>
+  <body>
+    <div class="container">
+      <div class="row col-md-6 col-md-offset-3">
+        <div class="panel panel-primary">
+          <div class="panel-heading text-center">
+            <h1>Order Info</h1>
+          </div>
+          <div class="panel-body">
+            <form action="order.php" method="post">
+              <div class="form-group">
+                <label for="Order_No">Order No</label>
+                <input
+                  type="number"
+                  class="form-control"
+                  id="Order_No"
+                  name="Order_No"
+                />
+              </div>
+              <div class="form-group">
+                <label for="Name">Name</label>
+                <input
+                  type="text"
+                  class="form-control"
+                  id="Name"
+                  name="Name"
+                />
+              </div>
+              <div class="form-group">
+                <label for="Email">Email</label>
+                <input
+                  type="text"
+                  class="form-control"
+                  id="Email"
+                  name="Email"
+                />
+              </div>
+              <div class="form-group">
+                <label for="Address">Address</label>
+                <input
+                  type="text"
+                  class="form-control"
+                  id="Address"
+                  name="Address"
+                />
+              </div>
+              <div class="form-group">
+                <label for="Phone">Phone</label>
+                <input
+                  type="text"
+                  class="form-control"
+                  id="Phone"
+                  name="Phone"
+                />
+              </div>
+              <div class="form-group">
+                <label for="Order_Date">Order Date</label>
+                <input
+                  type="date"
+                  class="form-control"
+                  id="Order_Date"
+                  name="Order_Date"
+                />
+              </div>
+              <div class="form-group">
+                <label for="Order_Time">Order Time</label>
+                <input
+                  type="time"
+                  class="form-control"
+                  id="Order_Time"
+                  name="Order_Time"
+                />
+              </div>
+              <div class="form-group">
+                <label for="Cake_Flavour">Cake_Flavour</label>
+                <input
+                  type="text"
+                  class="form-control"
+                  id="Cake_Flavour"
+                  name="Cake_Flavour"
+                />
+                <!-- <div class="select-wrap one-third">
+                  <div class="icon"><span class="ios-ios-arrow-down"></span></div>
+                  <select name="Cake_Flavour" id="Cake_Flavour" type="text" class="form-control">
+                      <option value="">Black Forest</option>
+                      <option value="">Yellow Butter Cake</option>
+                      <option value="">Pound Cake</option>
+                      <option value="">Red Velvet Cake</option>
+                      <option value="">Carrot Cake</option>
+                      <option value="">Sponge Cake</option>
+                      <option value="">Genoise Cake</option>
+                      <option value="">Chiffon Cake</option>
+                  </select>
+              </div> -->
+              </div>
+              <div class="form-group">
+                <label for="kg">kg</label>
+                <input
+                  type="text"
+                  class="form-control"
+                  id="kg"
+                  name="kg"
+                />
+                <!-- <div class="select-wrap one-third">
+                  <div class="icon"><span class="ios-ios-arrow-down"></span></div>
+                  <select name="kg" id="kg" type="text" class="form-control">
+                      <option value="">0.5</option>
+                      <option value="">1</option>
+                      <option value="">1.5</option>
+                      <option value="">2.5</option>
+                      <option value="">5</option>
+                      <option value="">10</option>
+                      <option value="">Custom</option>
+                  </select> 
+              </div> -->
+              </div>
+              <input type="submit" class="btn btn-primary" value="SUBMIT" />
+              <!-- <button> <a href="DispStudent.php" class="btn btn-success"><b>Submit</b></a></button> -->
+            </form>
+          </div>
+          <div class="panel-footer text-right">
+            <small>&copy; The Muffin Room</small>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
+  </body>
+</html>
