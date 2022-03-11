@@ -87,7 +87,7 @@
   <center>
  <!-- <button class="button" > <a href="student.html" style="text-decoration: none;">INSERT</a> </button> 
  <button class="button" > <a href="index.html" style="text-decoration: none;">Search</a> </button> -->
- <button class="button" > <a href="../index.php" style="text-decoration: none;">Home Page</a> </button>
+ <button class="button" > <a href="../dashboard/home.php" style="text-decoration: none;">Home Page</a> </button>
               </center>
 </body> 
 	</html>

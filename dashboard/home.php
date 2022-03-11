@@ -175,9 +175,9 @@
                     <a href="../order/disp.php"><i class="fas fa-user-md"></i> Cake Order</a>
                </li>
                <li>
-                    <a href="../Available cakes/disp.php"><i class="fas fa-user-nurse"></i> Available Cake</a>
+                    <a href="../Available cakes/disp.php"><i class="fas fa-user-cake"></i> Available Cake</a>
                </li>
-               <li>
+               <!-- <li>
                     <a href="/php/patient/patient.php"><i class="fas fa-user-injured"></i> Patients</a>
                </li>
                <li>
@@ -194,7 +194,7 @@
                </li>
                <li>
                     <a href="/php/medicine/medicine.php"><i class="fas fa-medkit"></i> Medicine</a>
-               </li>
+               </li> -->
           </ul>
 
           <!-- logoutbutton -->
@@ -261,7 +261,7 @@
                     </div>
                </a>
 
-               <a href="/php/patient/patient.php" rel="">
+               <!-- <a href="/php/patient/patient.php" rel="">
                     <div class="cardspecific" style="width: 26%;">
                          patients
 
@@ -339,7 +339,7 @@
                               ?>
                          </div>
                     </div>
-               </a>
+               </a> -->
 
           </div>
 
