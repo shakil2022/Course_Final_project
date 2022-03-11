@@ -6,7 +6,7 @@
      <meta charset="UTF-8">
      <meta http-equiv="X-UA-Compatible" content="IE=edge">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <title>Ju Medical Center</title>
+     <title>The Muffin Room</title>
      <!-- <link rel="shortcut icon" href="https://juniv.edu/images/favicon.ico"> -->
      <!-- fonts -->
      <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -177,10 +177,10 @@
                <li>
                     <a href="../Available cakes/disp.php"><i class="fas fa-user-cake"></i> Available Cake</a>
                </li>
-               <!-- <li>
-                    <a href="/php/patient/patient.php"><i class="fas fa-user-injured"></i> Patients</a>
+                <li>
+                    <a href="../Chef/disp.php"><i class="fas fa-user-injured"></i> Chef</a>
                </li>
-               <li>
+               <!-- <li>
                     <a href="/php/test/test.php"><i class="fas fa-file-medical-alt"></i> Tests</a>
 
                </li>
@@ -194,7 +194,7 @@
                </li>
                <li>
                     <a href="/php/medicine/medicine.php"><i class="fas fa-medkit"></i> Medicine</a>
-               </li> -->
+               </li> --> 
           </ul>
 
           <!-- logoutbutton -->
@@ -261,14 +261,14 @@
                     </div>
                </a>
 
-               <!-- <a href="/php/patient/patient.php" rel="">
+               <a href="../Chef/disp.php" rel="">
                     <div class="cardspecific" style="width: 26%;">
-                         patients
+                         Chef
 
                          <div class="number">
                               <?php
-                              include 'db_conn.php';
-                              $sql = "select count(*) as total from patient";
+                              include 'connection.php';
+                              $sql = "select count(Chef_ID) as total from chef";
                               $result = mysqli_query($conn, $sql);
                               $data = mysqli_fetch_assoc($result);
                               echo $data['total'];
@@ -277,7 +277,7 @@
                     </div>
                </a>
 
-               <a href="/php/test/test.php" rel="">
+               <!-- <a href="/php/test/test.php" rel="">
                     <div class="cardspecific" style="width: 18%;">
                          Test
 
@@ -291,9 +291,9 @@
                               ?>
                          </div>
                     </div>
-               </a>
+               </a> -->
 
-               <a href="/php/bed/bed.php" rel="">
+               <!-- <a href="/php/bed/bed.php" rel="">
                     <div class="cardspecific" style="width: 18%;">
                          Bed
 
@@ -307,9 +307,9 @@
                               ?>
                          </div>
                     </div>
-               </a>
+               </a> -->
 
-               <a href="/php/Ambulence/ambulence.php" rel="">
+               <!-- <a href="/php/Ambulence/ambulence.php" rel="">
                     <div class="cardspecific" style="width: 18%;">
                          Ambulance
 
@@ -323,9 +323,9 @@
                               ?>
                          </div>
                     </div>
-               </a>
+               </a> -->
 
-               <a href="/php/medicine/medicine.php" rel="">
+               <!-- <a href="/php/medicine/medicine.php" rel="">
                     <div class="cardspecific" style="width: 18%;">
                          Medicine
 
