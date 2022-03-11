@@ -370,7 +370,8 @@ Thank you for your patience. Please stay with us.</p>
                         <div class="text">
                             <div class="d-flex">
                                 <div class="one-half">
-                                    <h3>Strawberry</h3>
+                                    <a href="https://sallysbakingaddiction.com/strawberry-cake/" style="color: black;"><h3>Strawberry</h3></a>
+                                    
                                 </div>
                                 <div class="one-forth">
                                     <span class="price">₹1400</span>
@@ -387,7 +388,8 @@ Thank you for your patience. Please stay with us.</p>
                         <div class="text">
                             <div class="d-flex">
                                 <div class="one-half">
-                                    <h3>Chocolate Cake</h3>
+                                <a href="https://pixabay.com/images/search/chocolate%20cake/" style="color: black;"><h3>Chocolate Cake</h3></a>   
+                                
                                 </div>
                                 <div class="one-forth">
                                     <span class="price">₹567</span>
@@ -403,7 +405,8 @@ Thank you for your patience. Please stay with us.</p>
                         <div class="text">
                             <div class="d-flex">
                                 <div class="one-half">
-                                    <h3>Red Valvet</h3>
+                                <a href="https://en.wikipedia.org/wiki/Red_Velvet_(group)" style="color: black;"><h3>Red Valvet</h3></a>   
+                                    
                                 </div>
                                 <div class="one-forth">
                                     <span class="price">₹500</span>
@@ -425,7 +428,9 @@ Thank you for your patience. Please stay with us.</p>
                         <div class="text">
                             <div class="d-flex">
                                 <div class="one-half">
-                                    <h3>Pineapple</h3>
+                                <a href="https://en.wikipedia.org/wiki/Red_Velvet_(group)" style="color: black;"><h3>Pineapple</h3></a>   
+                                    
+                                   
                                 </div>
                                 <div class="one-forth">
                                     <span class="price">₹450</span>
@@ -441,7 +446,7 @@ Thank you for your patience. Please stay with us.</p>
                         <div class="text">
                             <div class="d-flex">
                                 <div class="one-half">
-                                    <h3>Belgium Cake</h3>
+                                <a href="https://www.google.com/search?q=Belgium+Cake&oq=Belgium+Cake&aqs=chrome..69i57.330j0j4&sourceid=chrome&ie=UTF-8" style="color: black;"><h3>Belgium Cake</h3></a>   
                                 </div>
                                 <div class="one-forth">
                                     <span class="price">₹400</span>
@@ -457,7 +462,8 @@ Thank you for your patience. Please stay with us.</p>
                         <div class="text">
                             <div class="d-flex">
                                 <div class="one-half">
-                                    <h3>Cookies</h3>
+                                <a href="https://en.wikipedia.org/wiki/HTTP_cookie" style="color: black;"><h3>Cookies</h3></a>
+                                   
                                 </div>
                                 <div class="one-forth">
                                     <span class="price">₹400</span>
@@ -478,7 +484,8 @@ Thank you for your patience. Please stay with us.</p>
                         <div class="text">
                             <div class="d-flex">
                                 <div class="one-half">
-                                    <h3>Blackberries</h3>
+                                <a href="https://en.wikipedia.org/wiki/Blackberry" style="color: black;"><h3>Blackberries</h3></a>
+                                   
                                 </div>
                                 <div class="one-forth">
                                     <span class="price">₹400</span>
@@ -494,6 +501,8 @@ Thank you for your patience. Please stay with us.</p>
                         <div class="text">
                             <div class="d-flex">
                                 <div class="one-half">
+                                <a href="https://www.christinascucina.com/sicilian-orange-cake-using-entire-orange-peel-juice-pulp/" style="color: black;"><h3>Orange</h3></a>
+                                   
                                     <h3>Orange</h3>
                                 </div>
                                 <div class="one-forth">
@@ -510,7 +519,8 @@ Thank you for your patience. Please stay with us.</p>
                         <div class="text">
                             <div class="d-flex">
                                 <div class="one-half">
-                                    <h3>Mango</h3>
+                                <a href="https://natashaskitchen.com/mango-cake-recipe-video/" style="color: black;"><h3>Mango</h3></a>
+                                   
                                 </div>
                                 <div class="one-forth">
                                     <span class="price">₹400</span>
