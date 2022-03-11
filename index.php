@@ -259,7 +259,7 @@ Thank you for your patience. Please stay with us.</p>
                             <div class="block-18">
                                 <div class="text">
                                     <strong class="number" data-number="30">0</strong>
-                                    <span>Staffs</span>
+                                    <span>Chefs</span>
                                 </div>
                             </div>
                         </div>
@@ -267,7 +267,7 @@ Thank you for your patience. Please stay with us.</p>
                             class="col-md-6 col-lg-3 mb-4 mb-lg-0 d-flex justify-content-center counter-wrap ftco-animate">
                             <div class="block-18">
                                 <div class="text">
-                                    <strong class="number" data-number="1500">0</strong>
+                                    <strong class="number" data-number="1000">0</strong>
                                     <span>Happy Customers</span>
                                 </div>
                             </div>
