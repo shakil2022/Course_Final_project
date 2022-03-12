@@ -175,7 +175,7 @@
                     <a href="../order/disp.php"><i class="fas fa-user-md"></i> Cake Order</a>
                </li>
                <li>
-                    <a href="../Available cakes/disp.php"><i class="fas fa-user-cake"></i> Available Cake</a>
+                    <a href="../Available cakes/disp.php"><i class="fas fa-user-injured"></i> Available Cake</a>
                </li>
                 <li>
                     <a href="../Chef/disp.php"><i class="fas fa-user-injured"></i> Chef</a>

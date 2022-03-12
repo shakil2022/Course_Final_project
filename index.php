@@ -558,8 +558,9 @@ Thank you for your patience. Please stay with us.</p>
                                 </div>
                                 <div class="text">
                                     <p class="mb-4">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa illo corrupti
-                                        ratione voluptatibus recusandae dolore.
+                                   I order the strabery filled King Cake. It was delicious. As good as we used to buy in Louisiana.
+
+                                   Thank you ABC Bakery!
                                     </p>
                                     <div class="d-flex align-items-center">
                                         <div class="user-img" style="background-image: url(images/person_1.jpg);"></div>
@@ -578,8 +579,7 @@ Thank you for your patience. Please stay with us.</p>
                                 </div>
                                 <div class="text">
                                     <p class="mb-4">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa illo corrupti
-                                        ratione voluptatibus recusandae dolore.
+                                    You guys made my sons birthday a great one. He loved his Birthday cake. Also, your extra service of holding the cake an extra day after not having a fridge large enough.
                                     </p>
                                     <div class="d-flex align-items-center">
                                         <div class="user-img" style="background-image: url(images/person_2.jpg);"></div>
@@ -598,8 +598,7 @@ Thank you for your patience. Please stay with us.</p>
                                 </div>
                                 <div class="text">
                                     <p class="mb-4">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa illo corrupti
-                                        ratione voluptatibus recusandae dolore.
+                                    Our kindergarten class took a field trip to your bakery. It was the awesomest field trip EVER! The kids loved the hats and they loved seeing all of the cakes and baked goods
                                     </p>
                                     <div class="d-flex align-items-center">
                                         <div class="user-img" style="background-image: url(images/person_3.jpg);"></div>
@@ -618,8 +617,9 @@ Thank you for your patience. Please stay with us.</p>
                                 </div>
                                 <div class="text">
                                     <p class="mb-4">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa illo corrupti
-                                        ratione voluptatibus recusandae dolore.
+                                    I order the strabery filled King Cake. It was delicious. As good as we used to buy in Louisiana.
+
+                                     Thank you ABC Bakery!
                                     </p>
                                     <div class="d-flex align-items-center">
                                         <div class="user-img" style="background-image: url(images/person_4.jpg);"></div>
@@ -638,8 +638,7 @@ Thank you for your patience. Please stay with us.</p>
                                 </div>
                                 <div class="text">
                                     <p class="mb-4">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa illo corrupti
-                                        ratione voluptatibus recusandae dolore.
+                                    You guys made my sons birthday a great one. He loved his Birthday cake. Also, your extra service of holding the cake an extra day after not having a fridge large enough.
                                     </p>
                                     <div class="d-flex align-items-center">
                                         <div class="user-img" style="background-image: url(images/person_1.jpg);"></div>
@@ -674,7 +673,7 @@ Thank you for your patience. Please stay with us.</p>
                     <div class="staff">
                         <div class="img" style="background-image: url(images/chef4.jpg);"></div>
                         <div class="text pt-4">
-                            <h3>Navnit Kumar</h3>
+                            <h3>Rahima Kaniz</h3>
                             <span class="position mb-2">Cake Designer</span>
                             <div class="faded">
                                 <ul class="ftco-social d-flex">
@@ -691,7 +690,7 @@ Thank you for your patience. Please stay with us.</p>
                     <div class="staff">
                         <div class="img" style="background-image: url(images/chef1.jpg);"></div>
                         <div class="text pt-4">
-                            <h3>Nilay Hirpara</h3>
+                            <h3>Fatime Bin</h3>
                             <span class="position mb-2">Owner</span>
                             <div class="faded">
                                 <ul class="ftco-social d-flex">
@@ -708,7 +707,7 @@ Thank you for your patience. Please stay with us.</p>
                     <div class="staff">
                         <div class="img" style="background-image: url(images/chef2.jpg);"></div>
                         <div class="text pt-4">
-                            <h3>Ravi Kumawat</h3>
+                            <h3>Kamrun Nahar</h3>
                             <span class="position mb-2">Cake Maker</span>
                             <div class="faded">
                                 <ul class="ftco-social d-flex">
@@ -725,7 +724,7 @@ Thank you for your patience. Please stay with us.</p>
                     <div class="staff">
                         <div class="img" style="background-image: url(images/chef3.jpg);"></div>
                         <div class="text pt-4">
-                            <h3>Somyadeep Dey</h3>
+                            <h3>Somolota</h3>
                             <span class="position mb-2">Manager</span>
                             <div class="faded">
                                 <ul class="ftco-social d-flex">
@@ -743,7 +742,7 @@ Thank you for your patience. Please stay with us.</p>
     </section>
     <!-- staff section --- chef ends -->
     <!-- blog section starts -->
-    <section class="ftco-section bg-light" id="blog">
+    <!-- <section class="ftco-section bg-light" id="blog">
         <div class="container">
             <div class="row justify-content-center mb-5">
                 <div class="col-md-7 text-center heading-section ftco-animate">
@@ -808,7 +807,7 @@ Thank you for your patience. Please stay with us.</p>
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- blog section ends -->
 
     <!-- footer section starts -->
@@ -817,16 +816,15 @@ Thank you for your patience. Please stay with us.</p>
             <div class="row mb-5">
                 <div class="col-md-6 col-lg-3">
                     <div class="ftco-footer-widget mb-4">
-                        <h2 class="ftco-heading-2">Beleniss</h2>
+                        <h2 class="ftco-heading-2">The Muffin Room</h2>
                         <p>We serve and take all type of cake orders. You can personalised cake of your own choice. We
                             have the best chef in the city working for us and happying serving to you.
                             <br><br><br>
-                            Belenisscake@gmail.com
+                            muffinroom@gmail.com
                             <br>
-                            8888888888
                         </p>
                         <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-3">
-                            <li class="ftco-animate"><a href="#"><span class="fa fa-facebook"></span></a></li>
+                            <li class="ftco-animate"><a href="https://www.facebook.com/The-Muffin-Room-100885318736314" target="_blank"><span class="fa fa-facebook"></span></a></li>
                             <li class="ftco-animate"><a href="#"><span class="fa fa-twitter"></span></a></li>
                             <li class="ftco-animate"><a href="#"><span class="fa fa-instagram"></span></a></li>
                         </ul>
@@ -850,25 +848,25 @@ Thank you for your patience. Please stay with us.</p>
                     <div class="ftco-footer-widget mb-4">
                         <h2 class="ftco-heading-2">Instagram</h2>
                         <div class="thumb d-sm-flex">
-                            <a href="#" class="thumb-menu img" style="background-image: url(images/insta-1.jpg);"></a>
-                            <a href="#" class="thumb-menu img" style="background-image: url(images/insta-2.jpg);"></a>
-                            <a href="#" class="thumb-menu img" style="background-image: url(images/insta-3.jpg);"></a>
+                            <a href="#" class="thumb-menu img" style="background-image: url(images/bg_4.jpg);"></a>
+                            <a href="#" class="thumb-menu img" style="background-image: url(images/bg_4.jpg);"></a>
+                            <a href="#" class="thumb-menu img" style="background-image: url(images/menu7.jpeg);"></a>
                         </div>
                         <div class="thumb d-sm-flex">
-                            <a href="#" class="thumb-menu img" style="background-image: url(images/insta-4.jpg);"></a>
-                            <a href="#" class="thumb-menu img" style="background-image: url(images/insta-5.jpg);"></a>
-                            <a href="#" class="thumb-menu img" style="background-image: url(images/insta-6.jpg);"></a>
+                            <a href="#" class="thumb-menu img" style="background-image: url(images/menu5.jpg);"></a>
+                            <a href="#" class="thumb-menu img" style="background-image: url(images/insta-2.jpg);"></a>
+                            <a href="#" class="thumb-menu img" style="background-image: url(images/order_bg.jpg);"></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3">
                     <div class="ftco-footer-widget mb-4">
-                        <h2 class="ftco-heading-2">Newsletter</h2>
+                        <h2 class="ftco-heading-2">The Muffin Room</h2>
                         <p>To get cake catalogue every month by subscribing below.</p>
                         <form action="#" class="subscribe-form">
                             <div class="form-group">
                                 <input type="text" class="form-control mb-2 text-center"
-                                    placeholder="johndoe@gmail.com">
+                                    placeholder="maffinroom@gmail.com">
                                 <input type="submit" value="Subscribe" class="form-control submit px-3">
                             </div>
                         </form>
