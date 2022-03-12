@@ -63,7 +63,7 @@
             <a href="#testimonials"style=" text-decoration:none; ">Testimonials</a>
             <a href="#chef"style=" text-decoration:none; ">Chef</a>
             <a href="order/order.html"style=" text-decoration:none; ">Order a cake</a>
-            <a href="login.php"style=" text-decoration:none; ">admin</a>
+            <a href="login.php"style=" text-decoration:none; ">Admin</a>
             <!-- <a href="http://localhost:3000/php/index.php">logout <i class="fa fa-sign-out" aria-hidden="true"></i> -->
             <!-- <a href="logout process.php"style=" text-decoration:none; " >logout <i class="fa fa-sign-out" aria-hidden="true"></i> -->
 </a>
