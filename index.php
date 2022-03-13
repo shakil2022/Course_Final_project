@@ -810,6 +810,88 @@ Thank you for your patience. Please stay with us.</p>
     </section> -->
     <!-- blog section ends -->
 
+    <section id="contact" class="contact">
+ <center> <h1 class=" heading" >Contact</h1></center>
+        <div class="container" id="cont">
+  
+          <div class="section-title" id="sec_cond">
+         
+            <!-- <p>If you have any query or douts please contact me.Thanks!!!!!</p> -->
+            <!-- </div> -->
+  
+          <div class="row" data-aos="fade-in">
+  
+            <div class="col-lg-5 d-flex align-items-stretch">
+              <div class="info">
+                <div class="address">
+                <i class="bx bx-home"></i>
+                  <h4>Location:</h4>
+                  <p>Mirpur-1,Dhaka</p>
+                </div>
+                
+                <div class="mail">
+                    <i class="bx bx-envelope"></i>
+                    <h4>mail:</h4>
+                    <p>mufffin@gmail.com</p>
+                  </div>
+  
+                <div class="phone">
+                  <i class="bx bxl-skype"></i>
+                  <h4>Call:</h4>
+                  <p>02224491052</p>
+                </div>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14602.702518325517!2d90.34510367771927!3d23.79456245308014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c0e96fce29dd%3A0x6ccd9e51aba9e64d!2sMirpur-1%2C%20Dhaka!5e0!3m2!1sen!2sbd!4v1647184327668!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+              </div>
+  
+            </div>
+  
+            <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
+              <form action="message/message.php" method="post" role="form" class="php-email-form">
+                <div class="form-row">
+                  <div class="form-group col-md-6">
+                    <label for="Order_No" class="message">Order ID</label>
+                    <input type="text" name="Order_No" class="form-control" id="Order_No" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                    <div class="validate"></div>
+                  </div>
+                  <div class="form-group col-md-6">
+                    <label for="Name" class="message">Name</label>
+                    <input type="text" class="form-control" name="Name" id="Name" data-rule="Name" data-msg="Please enter a valid email" />
+                    <div class="validate"></div>
+                  </div>
+                </div>
+                <!-- <div class="form-group">
+                <label for="Stu_id">Student ID</label>
+                <input
+                  type="number"
+                  class="form-control"
+                  id="Stu_id"
+                  name="Stu_id"
+                />
+              </div> -->
+                <div class="form-group">
+                  <label for="Phone" class="message">Phone Number</label>
+                  <input type="text" class="form-control" name="Phone" id="Phone" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                  <div class="validate"></div>
+                </div>
+                <div class="form-group">
+                  <label for="Messages" class="message">Message</label>
+                  <textarea class="form-control" name="Messages" id="Messages" rows="15" data-rule="required" data-msg="Please write something for us"></textarea>
+                  <div class="validate"></div>
+                </div>
+                <div class="mb-3">
+                  <div class="loading">Loading</div>
+                  <div class="error-message"></div>
+                  <div class="sent-message">Your message has been sent. Thank you!</div>
+                </div>
+                <div class="text-center"  id="button_mes"><button type="submit">Send Message</button></div>
+              </form>
+            </div>
+  
+          </div>
+          </div>
+        </div>
+      </section>
+
     <!-- footer section starts -->
     <section class="ftco-footer ftco-bg-dark ftco-section">
         <div class="container">

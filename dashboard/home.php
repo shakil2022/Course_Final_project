@@ -180,11 +180,11 @@
                 <li>
                     <a href="../Chef/disp.php"><i class="fas fa-user-injured"></i> Chef</a>
                </li>
-               <!-- <li>
-                    <a href="/php/test/test.php"><i class="fas fa-file-medical-alt"></i> Tests</a>
+               <li>
+                    <a href="../message/disp.php"><i class="fas fa-file-medical-alt"></i> Message</a>
 
                </li>
-               <li>
+               <!-- <li>
                     <a href="/php/bed/bed.php"><i class="fas fa-procedures"></i> Bed</a>
 
                </li>
@@ -194,7 +194,7 @@
                </li>
                <li>
                     <a href="/php/medicine/medicine.php"><i class="fas fa-medkit"></i> Medicine</a>
-               </li> --> 
+               </li>  -->
           </ul>
 
           <!-- logoutbutton -->
@@ -277,21 +277,21 @@
                     </div>
                </a>
 
-               <!-- <a href="/php/test/test.php" rel="">
+               <a href="../message/disp.php" rel="">
                     <div class="cardspecific" style="width: 18%;">
-                         Test
+                         Messages
 
                          <div class="number">
                               <?php
-                              include 'db_conn.php';
-                              $sql = "select count(*) as total from test";
+                              include 'connection.php';
+                              $sql = "select count(Order_No) as total from message";
                               $result = mysqli_query($conn, $sql);
                               $data = mysqli_fetch_assoc($result);
                               echo $data['total'];
                               ?>
                          </div>
                     </div>
-               </a> -->
+               </a>
 
                <!-- <a href="/php/bed/bed.php" rel="">
                     <div class="cardspecific" style="width: 18%;">
