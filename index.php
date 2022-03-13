@@ -825,7 +825,7 @@ Thank you for your patience. Please stay with us.</p>
             <div class="col-lg-5 d-flex align-items-stretch">
               <div class="info">
                 <div class="address">
-                <i class="fas fa-home"></i>
+                <i class="bx bx-envelope"></i>
                   <h4>Location:</h4>
                   <p>Mirpur-1,Dhaka</p>
                 </div>
