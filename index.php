@@ -60,8 +60,9 @@
             <a href="#about"style=" text-decoration:none; " >About</a>
             <a href="#gallery"style=" text-decoration:none; ">Gallery</a>
             <a href="#menu"style=" text-decoration:none; ">Menu</a>
-            <a href="#testimonials"style=" text-decoration:none; ">Testimonials</a>
+            <a href="#testimonial"style=" text-decoration:none; ">Testimonials</a>
             <a href="#chef"style=" text-decoration:none; ">Chef</a>
+            <a href="#contact"style=" text-decoration:none; ">Contact</a>
             <a href="order/order.html"style=" text-decoration:none; ">Order a cake</a>
             <a href="login.php"style=" text-decoration:none; ">Admin</a>
             <!-- <a href="http://localhost:3000/php/index.php">logout <i class="fa fa-sign-out" aria-hidden="true"></i> -->
@@ -824,7 +825,7 @@ Thank you for your patience. Please stay with us.</p>
             <div class="col-lg-5 d-flex align-items-stretch">
               <div class="info">
                 <div class="address">
-                <i class="bx bx-home"></i>
+                <i class="fas fa-home"></i>
                   <h4>Location:</h4>
                   <p>Mirpur-1,Dhaka</p>
                 </div>
