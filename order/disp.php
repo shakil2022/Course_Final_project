@@ -36,7 +36,7 @@
 	<body bgcolor="lightblue"> 
 	<table align="center" class="table2" border="3px solid black" style="width:1100px; line-height:40px;"> 
 	<tr> 
-		<th colspan="10"><h2>Cake Order List</h2></th> 
+		<th colspan="11"><h2>Cake Order List</h2></th> 
 		</tr>
    
 			  <th> Order No </th> 
@@ -48,6 +48,7 @@
         <th>Order Time</th>
         <th>Cake Flavour</th>
         <th>KG</th>
+        <th>Price</th>
         <th>Operations</th>
 			  
 		</tr> 
@@ -67,6 +68,7 @@
     <td class="tdr"><?php echo $row1['Order_Time']; ?></td>
     <td class="tdr"><?php echo $row1['Cake_Flavour']; ?></td>
     <td class="tdr"><?php echo $row1['kg']; ?></td>
+    <td class="tdr"><?php echo $row1['price']; ?></td>
     <td style="width: 140px;">
                                 <button><a href="Delete.php?Order_No=<?php echo $row1["Order_No"]; ?>">Delete</a></button>
                                 <button>
